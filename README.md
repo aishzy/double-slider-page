@@ -1,6 +1,6 @@
 <img width="1419" height="854" alt="image" src="https://github.com/user-attachments/assets/c0ef9224-87d7-448d-9ccd-a0125b881b58" />
 
-
+Click here: https://double-slider-page.netlify.app
 ## Double Slider Login & Registration Page 
 
 This project demonstrates a double slider authentication UI using HTML, CSS and JavaScript. The login and registration forms share the same page and switch visibility using a sliding animation instead of page reloads. 
